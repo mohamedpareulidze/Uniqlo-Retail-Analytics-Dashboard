@@ -68,11 +68,18 @@ The dashboard is structured for both **business users** and **analysts** seeking
 This project demonstrates my ability to design complete, end-to-end Business Intelligence solutions using Power BI. It showcases my skills in data cleaning, modeling, DAX measure creation, visual storytelling, and strategic interpretation. Through this analysis, I apply analytical thinking to real-world retail challenges, using data to evaluate market attractiveness, understand competitive dynamics, and support business expansion decisions. The dashboard reflects a structured, business-oriented approach that transforms raw datasets into actionable insights for decision-makers.
 
 Repository Structure:
-.
+
+
 ├── README.md
+
 ├── dashboard/
+
 │   └── Uniqlo_Analysis.pbix
+
 ├── data/
+
 │   ├── clothing_store_data.xlsx
+
 │   └── clothing_store_turnover_brands.xlsx
+
 └── assets/
